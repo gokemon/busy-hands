@@ -1,8 +1,8 @@
 ##Busy Hands Exercise
 
-Today you'll try to recreate a webpage based on these [screenshots]. The CSS is provided for you so just focus on the HTML to scaffold the page.
+Today you'll try to recreate a webpage based on these [[screenshots]](https://github.com/gokemon/busy-hands/tree/master/screenshots). The CSS is provided for you so just focus on the HTML to scaffold the page.
 
-SCREENSHOT HERE
+![](https://github.com/gokemon/busy-hands/blob/master/screenshots/full-page-screenshot.png)
 
 
 ###Suggested elements/ids/classes to include
